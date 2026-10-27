@@ -1,0 +1,12 @@
+{
+  "name": "Coming Home",
+  "short_name": "Coming Home",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b1d33",
+  "theme_color": "#1b1d33",
+  "icons": [
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
